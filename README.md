@@ -61,7 +61,7 @@ Contributions are welcome! Feel free to enhance existing features, add new funct
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
 ## Acknowledgments
-- This project was developed as part of [provide details if any].
+- This project was developed as part of BOLT 2.0 VIT Hackathon 2024
 - Special thanks to the creators of TensorFlow, Keras, Streamlit, Firebase, and other open-source libraries used in this project.
 
 ## Support
