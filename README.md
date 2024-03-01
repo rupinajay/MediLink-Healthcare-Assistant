@@ -1,4 +1,4 @@
-# MediLink---Healthcare-Assistant
+# MediLink-Healthcare-Assistant
 
 ## Overview
 Medilink is a comprehensive medical assistance and diagnosis system designed to provide various healthcare-related functionalities. Leveraging advanced technologies such as deep learning, OCR (Optical Character Recognition), real-time data analysis, and telemedicine integration, Medilink offers a wide range of services to users, including skin disease prediction, medical report analysis, heart rate simulation, prompt-based diagnosis, and telemedicine consultation.
