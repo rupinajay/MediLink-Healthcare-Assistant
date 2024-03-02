@@ -55,7 +55,7 @@ Medilink is a comprehensive medical assistance and diagnosis system designed to 
 - Ensure proper network configurations for real-time data analysis and telemedicine integration.
 
 ## Contributing
-Contributions are welcome! Feel free to enhance existing features, add new functionalities, or fix any bugs. Please follow the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines when contributing to this project.
+Contributions are welcome! Feel free to enhance existing features, add new functionalities, or fix any bugs. 
 
 ## License
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
