@@ -29,6 +29,9 @@ Medilink is a comprehensive medical assistance and diagnosis system designed to 
 - Utilizes Gmail SMTP server for email communication.
 - Ensures secure and efficient transmission of medical reports to patients.
 
+## Dataset
+- **NSL KDD Dataset**: The project utilizes the NSL-KDD dataset for training and evaluation. This dataset is a refined version of the widely-used KDD Cup 1999 dataset, specifically designed for intrusion detection research.
+
 ## Installation and Usage
 1. Clone this repository to your local machine:
     ```bash
